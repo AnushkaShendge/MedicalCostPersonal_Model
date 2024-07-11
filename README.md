@@ -1,4 +1,4 @@
-# Porsonal Health Cost Prediction
+# Personal Health Cost Prediction
 
 This project aims to predict the health costs for individuals based on age and other factors using a dataset from Kaggle. Various regression models were evaluated, and the Decision Tree Regressor provided the best results with an accuracy of 99.67%.
 
