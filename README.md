@@ -41,11 +41,11 @@ To replicate the results, follow the steps below:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-repo-url.git
+    git clone https://github.com/AnushkaShendge/MedicalCostPersonal_Model.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd your-repo-name
+    cd MedicalCostPersonal_Model
     ```
 3. Install the required dependencies:
     ```sh
